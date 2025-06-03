@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dyimah Ansah</h1>
+<h1 align="center">Hi 👋,    I'm Dyimah Ansah</h1>
 <h3 align="center">An Analytical and impact-driven Machine Learning Engineer strengthened by a unique background in law, healthcare, and entrepreneurship.</h3>
 
 - 💬 Ask me about **My Aviation Incident Predictor Project**
